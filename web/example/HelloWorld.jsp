@@ -9,7 +9,7 @@
 
     <body>
         <h2><s:property value="message"/></h2>
-         <!-- checking for git -->
+         <!-- checking for git commit-->
         <h3>Languages</h3>
         <ul>
             <li>
