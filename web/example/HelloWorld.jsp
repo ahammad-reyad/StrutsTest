@@ -11,6 +11,7 @@
         <h2><s:property value="message"/></h2>
          <!-- checking for git commit-->
         <h3>Languages</h3>
+         <h3>Languages</h3>
         <ul>
             <li>
                 <s:url id="url" action="HelloWorld">
