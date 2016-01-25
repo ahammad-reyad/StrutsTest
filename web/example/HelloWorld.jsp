@@ -19,7 +19,7 @@
                 </s:url>
                 <s:a href="%{url}">English</s:a>
             </li>
-
+<!-- comment -->
             <li>
                 <s:url id="url" action="HelloWorld">
                     <s:param name="request_locale">es</s:param>
